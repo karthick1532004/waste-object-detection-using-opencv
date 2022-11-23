@@ -1,0 +1,4 @@
+0 not a waste(human)
+1 waste(water bottles)
+2 waste(plastic bags)
+3 waste(common)
